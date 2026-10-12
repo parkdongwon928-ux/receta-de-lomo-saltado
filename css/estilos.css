@@ -1,0 +1,37 @@
+   body {background-image: url("../imagenes/fondo.jpg");
+      background-attachment: fixed;
+      }
+
+      .lomo {
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
+    width: 50%;
+  }
+
+  .lomo img {
+    max-width: 1000px;
+    height: auto;           
+    display: block;
+  }
+
+h1 {color: #E5C158;}
+
+h1 {text-align: center;
+   color: # white ;
+   }
+
+ .azul {color: white;
+   background-color:
+#E5C158;
+   text-decoration: underline;
+   }
+
+ .blanco {color: white;
+   background-color: #E5C158;
+   text-decoration: underline;
+   }
+
+   ul {color: white}
+   ol {color: white}
+   p {color: white}
